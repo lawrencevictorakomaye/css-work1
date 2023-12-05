@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+  }
+  div {
+    background-color: black;
+    color: antiquewhite;
+  }
+  .a {
+    font-size: 32px;
+  }
+  .b {
+    color: red;
+  }
+  .c {
+    text-transform: uppercase;
+  }
+
+  #first {
+    font-size: 50px;
+  }
+  
+  #second {
+    font-weight: bolder;
+    display: block;
+  }
